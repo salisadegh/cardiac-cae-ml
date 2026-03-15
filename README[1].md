@@ -1,11 +1,6 @@
 # Causal Adjacency Examination (CAE) for Clinical ML Pipelines
 ## Applied to One-Year Survival Prediction After Cardiac Surgery
 
-**Author:** Dr. Ali Sadegh-Zadeh  
-**Affiliation:** Staffordshire University  
-**Contact:** a.sadegh-zadeh@staffs.ac.uk
-
----
 
 ### Overview
 
