@@ -100,16 +100,3 @@ Results are written to `results/`.
 
 Code and synthetic data are available upon acceptance of the manuscript. During peer review, materials are available from the corresponding author on request. The procedure is transparent and in principle auditable; full independent computational replication of the original cohort results requires access to patient data under a data-use agreement.
 
----
-
-### Citation
-
-If you use this code or the CAE procedure, please cite:
-
-> Sadegh-Zadeh, A. (2025). Causal Adjacency Examination (CAE): A Formalised Leakage-Detection Procedure for Clinical Machine Learning Pipelines. *Artificial Intelligence Review*. [under review]
-
----
-
-### License
-
-MIT License. See `LICENSE` for details.
