@@ -1,0 +1,57 @@
+{
+  "0.0": {
+    "n_leaky": 0,
+    "naive_mean": 0.6842,
+    "naive_std": 0.0438,
+    "cae_mean": 0.6842,
+    "cae_std": 0.0438,
+    "inflation_mean": 0.0,
+    "inflation_std": 0.0,
+    "wilcoxon_p": 1.0,
+    "cohens_d": 0.0
+  },
+  "0.083": {
+    "n_leaky": 1,
+    "naive_mean": 0.9872,
+    "naive_std": 0.0065,
+    "cae_mean": 0.6879,
+    "cae_std": 0.0432,
+    "inflation_mean": 0.2992,
+    "inflation_std": 0.0432,
+    "wilcoxon_p": 0.0,
+    "cohens_d": 6.927
+  },
+  "0.167": {
+    "n_leaky": 2,
+    "naive_mean": 0.9987,
+    "naive_std": 0.0013,
+    "cae_mean": 0.6904,
+    "cae_std": 0.0426,
+    "inflation_mean": 0.3083,
+    "inflation_std": 0.0426,
+    "wilcoxon_p": 0.0,
+    "cohens_d": 7.239
+  },
+  "0.286": {
+    "n_leaky": 3,
+    "naive_mean": 0.9999,
+    "naive_std": 0.0002,
+    "cae_mean": 0.6926,
+    "cae_std": 0.042,
+    "inflation_mean": 0.3073,
+    "inflation_std": 0.042,
+    "wilcoxon_p": 0.0,
+    "cohens_d": 7.311
+  },
+  "0.417": {
+    "n_leaky": 5,
+    "naive_mean": 1.0,
+    "naive_std": 0.0,
+    "cae_mean": 0.6976,
+    "cae_std": 0.0405,
+    "inflation_mean": 0.3024,
+    "inflation_std": 0.0405,
+    "wilcoxon_p": 0.0,
+    "cohens_d": 7.468
+  }
+}

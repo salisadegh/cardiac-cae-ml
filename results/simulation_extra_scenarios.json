@@ -1,0 +1,20 @@
+{
+  "scenario_A": {
+    "correct_auc": 0.6835,
+    "imperfect_auc": 0.9879,
+    "naive_auc": 0.9987,
+    "residual_inflation": 0.3044,
+    "total_inflation": 0.3152
+  },
+  "scenario_B": {
+    "false_positive_rate": 0.0,
+    "n_tested": 120,
+    "mean_auc": 0.8303
+  },
+  "scenario_C": {
+    "full_model_auc": 0.8709,
+    "tier2_auc": 0.6911,
+    "proxy_contribution": 0.1798,
+    "wilcoxon_p": 0.0
+  }
+}
